@@ -1,2 +1,4 @@
 # thirdSprint
-Patterns and Developer project
+Patterns:
+- Singleton
+- Adapter
